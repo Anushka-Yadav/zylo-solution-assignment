@@ -5,17 +5,17 @@ Zylo Business Solution is a Flutter app designed to manage employee details with
 ### Green✅ represents active employees with 5+ years of experience.
 
 
-## Download APK: [APK Link]([https://github.com/yourusername/yourprojectname/apk](https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/zyloApp.apk))
+## Download APK: [APK Link]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/zyloApp.apk))
 
-## Download Bundle: [Bundle Link]([https://github.com/yourusername/yourprojectname/bundle](https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/app-release.aab))
+## Download Bundle: [Bundle Link]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/app-release.aab))
 
 ## Flutter for frontend, Springboot and MongoDB for backend and docker container is running on EC2
 
 ## Screenshots
 
-![Screenshot 1]([screenshots/screenshot1.png](https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z3.jpg))
-![Screenshot 2]([screenshots/screenshot2.png](https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z2.jpg))
-![Screenshot 3]([screenshots/screenshot3.png](https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z1.jpg))
+![Screenshot 1]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z3.jpg))
+![Screenshot 2]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z2.jpg))
+![Screenshot 3]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/z1.jpg))
 
 ## Getting Started
 
