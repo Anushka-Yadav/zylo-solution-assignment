@@ -5,17 +5,18 @@ Zylo Business Solution is a Flutter app designed to manage employee details with
 ### Green✅ represents active employees with 5+ years of experience.
 
 
-## Download APK: [APK Link]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/zyloApp.apk))
+## Download APK: [APK Link](https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/zyloApp.apk)
 
-## Download Bundle: [Bundle Link]((https://github.com/Anushka-Yadav/zylo-solution-assignment/blob/dccc2385dd442f97a70d4c9befa905251c7fc000/app-release.aab))
-
+## Download Bundle: [Bundle Link](https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/app-release.aab)
 ## Flutter for frontend, Springboot and MongoDB for backend and docker container is running on EC2
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z3.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z2.jpg)
-![Screenshot 3](https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z1.jpg)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z3.jpg" alt="Screenshot 1" style="width: 45%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z2.jpg" alt="Screenshot 2" style="width: 45%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z1.jpg" alt="Screenshot 3" style="width: 45%;">
+</div>
 
 
 ## Getting Started
