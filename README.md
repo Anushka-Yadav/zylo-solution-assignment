@@ -13,10 +13,11 @@ Zylo Business Solution is a Flutter app designed to manage employee details with
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z3.jpg" alt="Screenshot 1" style="width: 45%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z2.jpg" alt="Screenshot 2" style="width: 45%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z1.jpg" alt="Screenshot 3" style="width: 45%;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z3.jpg" alt="Screenshot 1" style="width: 30%;  max-height: 100%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z2.jpg" alt="Screenshot 2" style="width: 30%; max-height: 100%; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Anushka-Yadav/zylo-solution-assignment/main/z1.jpg" alt="Screenshot 3" style="width: 30%; max-height: 100%;">
 </div>
+
 
 
 ## Getting Started
