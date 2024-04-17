@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class EmployeeService {
   Future<List<Map<String, dynamic>>> fetchEmployee() async {
-    var url = Uri.parse("https://employee-9yq3.onrender.com/employees");
+    var url = Uri.parse("http://54.89.121.45:8081/employees");
     var headers = {'Content-Type': 'application/json'};
     var client = http.Client();
     print("i am here");
